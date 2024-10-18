@@ -8,4 +8,4 @@
 
 [下載連結](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks) 
 ***
-[下一個軟體](簡潔代辦.md)
+[→ 下一個](簡潔代辦.md)
