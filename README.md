@@ -12,6 +12,9 @@
 * [簡潔代辦](安卓/簡潔代辦.md)
 * [翻頁時鐘](安卓/翻頁時鐘.md)
 
+> 程式相關
+* [termux](安卓/termux.md)
+
 ### window
 > 程式相關
 
@@ -29,3 +32,6 @@
 * [google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)
 * [簡潔代辦](https://play.google.com/store/apps/details?id=com.stuff.todo)
 * [翻頁時鐘](https://play.google.com/store/apps/details?id=com.wssc.simpleclock)
+
+> 程式相關
+* [termux](https://f-droid.org/packages/com.termux/)
