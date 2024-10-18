@@ -8,9 +8,9 @@
 # list
 ### 安卓
 > 小工具 
-* [google Tasks](google%20Tasks.md)
-* [簡潔代辦](簡潔代辦.md)
-* [翻頁時鐘](翻頁時鐘.md)
+* [google Tasks](安卓/google%20Tasks.md)
+* [簡潔代辦](安卓/簡潔代辦.md)
+* [翻頁時鐘](安卓/翻頁時鐘.md)
 
 ### window
 > 程式相關
