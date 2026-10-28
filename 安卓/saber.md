@@ -9,4 +9,4 @@
 
 [下載連結](https://saber.adil.hanney.org/)
 ***
-[← 上一個](翻頁時鐘.md)
+[← 上一個](google%20Tasks.md.md) [→ 下一個](簡潔代辦.md)
